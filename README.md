@@ -1,247 +1,226 @@
-# 🔍 adcAM Sniffer v5.1
-
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-5.1-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8+-green.svg)
-![License](https://img.shields.io/badge/license-Non--Commercial-orange.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=2000&pause=500&color=FF006E&center=true&vCenter=true&width=500&lines=adcAM+Sniffer+v5.1" alt="adcAM Sniffer" />
+</h1>
 
-**Advanced Network Packet Analysis & Security Testing Tool**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=800&lines=Advanced+Network+Packet+Analyzer;Real-Time+Credential+Detection;Security+Testing+%26+Penetration+Tool;Multi-Protocol+Traffic+Analysis" alt="Typing SVG" />
 
-*Developed by Amin Moniry (adc7)*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Security](#-security) • [License](#-license)
+![Version](https://img.shields.io/badge/version-5.1-FF006E?style=for-the-badge&logo=github&logoColor=white&labelColor=240046)
+![Python](https://img.shields.io/badge/python-3.8+-9D4EDD?style=for-the-badge&logo=python&logoColor=white&labelColor=240046)
+![License](https://img.shields.io/badge/license-Non--Commercial-FFD60A?style=for-the-badge&logo=creative-commons&logoColor=240046&labelColor=240046)
+![Status](https://img.shields.io/badge/status-Active-4CC9F0?style=for-the-badge&logo=statuspage&logoColor=240046&labelColor=240046)
 
----
+[![GitHub Stars](https://img.shields.io/github/stars/Amin-moniry-pr7/adcAM-Sniffer?style=for-the-badge&color=FFD60A&labelColor=240046&logo=github)](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Amin-moniry-pr7/adcAM-Sniffer?style=for-the-badge&color=9D4EDD&labelColor=240046&logo=github)](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/network)
+[![GitHub Issues](https://img.shields.io/github/issues/Amin-moniry-pr7/adcAM-Sniffer?style=for-the-badge&color=FF006E&labelColor=240046&logo=github)](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/issues)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 🌟 Overview
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Overview
+
+<div align="center">
 
 **adcAM Sniffer** is a powerful, real-time network packet analyzer designed for security professionals, penetration testers, and network administrators. Built with Python and featuring a modern web-based interface, it provides deep insights into network traffic with advanced credential detection capabilities.
 
-### 🎯 Key Highlights
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 
-- 🔴 **Real-Time Credential Detection** with instant red alert system
-- 🌐 **Multi-Protocol Support** (HTTP, HTTPS, DNS, FTP, TCP, UDP, ARP)
-- 📊 **Live Traffic Dashboard** with beautiful visualizations
-- 🔐 **Enhanced Security** with bcrypt authentication
-- 💾 **PCAP Export** for Wireshark compatibility
-- 🎨 **Modern UI** with Nord color scheme
-- ⚡ **High Performance** with multi-threading support
+</div>
 
 ---
 
-## ✨ Features
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Key Features
 
-### 🕵️ Advanced Packet Analysis
-- **Deep Packet Inspection**: Analyze all network layers (IP, TCP, UDP, Application)
-- **Protocol Recognition**: Automatic detection of HTTP, HTTPS, DNS, FTP, and more
-- **Domain Resolution**: Smart DNS cache and reverse lookup
-- **Port Scanning Detection**: Track source and destination ports
+<div align="center">
 
-### 🚨 Credential Detection System
-- **Multi-Pattern Recognition**: Detects usernames, passwords, emails, tokens, and API keys
-- **Real-Time Alerts**: Visual and sound notifications when credentials are found
-- **Smart Filtering**: Eliminates false positives with intelligent validation
-- **Export Capabilities**: Save detected credentials to TXT format
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=FF006E&center=true&vCenter=true&width=700&lines=🔴+Real-Time+Credential+Detection;🌐+Multi-Protocol+Support;📊+Live+Traffic+Dashboard;🔐+Enhanced+Security;💾+PCAP+Export;⚡+High+Performance" alt="Features" />
 
-### 📈 Live Monitoring Dashboard
-- **Real-Time Packet Stream**: See packets as they arrive
-- **Protocol Statistics**: Top protocols and ports visualization
-- **Session Summary**: Comprehensive traffic analysis
-- **Display Filters**: Live filtering by IP, protocol, or domain
+</div>
 
-### 🔒 Security Features
-- **User Authentication**: Secure login with bcrypt password hashing
-- **Machine-Specific Licensing**: Activation code tied to hardware ID
-- **Rate Limiting**: Protection against brute-force attacks
-- **Database Encryption**: Secure storage of user credentials
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80" height="80"/>
+      <br><br>
+      <b>🕵️ Advanced Analysis</b>
+      <br><br>
+      <sub>Deep packet inspection</sub><br>
+      <sub>Protocol recognition</sub><br>
+      <sub>Domain resolution</sub><br>
+      <sub>Port scanning detection</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" height="80"/>
+      <br><br>
+      <b>🚨 Credential Detection</b>
+      <br><br>
+      <sub>Multi-pattern recognition</sub><br>
+      <sub>Real-time alerts</sub><br>
+      <sub>Smart filtering</sub><br>
+      <sub>Export capabilities</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"/>
+      <br><br>
+      <b>📈 Live Monitoring</b>
+      <br><br>
+      <sub>Real-time packet stream</sub><br>
+      <sub>Protocol statistics</sub><br>
+      <sub>Session summary</sub><br>
+      <sub>Display filters</sub>
+    </td>
+  </tr>
+</table>
 
-### 💾 Export & Save
-- **PCAP Files**: Export individual or all packets for Wireshark
-- **Credential Reports**: TXT export of all detected sensitive data
-- **Session Management**: Name and organize capture sessions
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Tech Stack
 
-## 🚀 Installation
+<div align="center">
 
-### Prerequisites
+### 💻 Core Technologies
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80" />
+<img src="https://skillicons.dev/icons?i=html,css" width="80" />
+
+### 📚 Libraries & Frameworks
+
+[![Scapy](https://img.shields.io/badge/Scapy-Network_Analysis-FF006E?style=for-the-badge&logo=python&logoColor=white&labelColor=240046)](https://scapy.net)
+[![Eel](https://img.shields.io/badge/Eel-GUI_Framework-9D4EDD?style=for-the-badge&logo=python&logoColor=white&labelColor=240046)](https://github.com/ChrisKnott/Eel)
+[![Bcrypt](https://img.shields.io/badge/Bcrypt-Security-4CC9F0?style=for-the-badge&logo=lock&logoColor=240046&labelColor=240046)](https://github.com/pyca/bcrypt)
+[![SQLite](https://img.shields.io/badge/SQLite-Database-FFD60A?style=for-the-badge&logo=sqlite&logoColor=240046&labelColor=240046)](https://www.sqlite.org)
+
+### 🛠️ Tools & Protocols
+
+[![Wireshark](https://img.shields.io/badge/Wireshark-Compatible-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=240046)](https://www.wireshark.org)
+[![Npcap](https://img.shields.io/badge/Npcap-Required-E0AAFF?style=for-the-badge&logo=windows&logoColor=240046&labelColor=240046)](https://nmap.org/npcap/)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=600&lines=HTTP+•+HTTPS+•+DNS+•+FTP;TCP+•+UDP+•+ARP+•+ICMP;Real-Time+Packet+Capture;PCAP+Export+Support" alt="Protocols" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Installation
+
+<div align="center">
+
+### ⚡ Quick Start
+
+</div>
 
 ```bash
-# Python 3.8 or higher
-python --version
-
-# Windows: Npcap (Required for packet capture)
-# Download from: https://nmap.org/npcap/
-```
-
-### Step 1: Clone Repository
-
-```bash
+# Clone the repository
 git clone https://github.com/Amin-moniry-pr7/adcAM-Sniffer.git
 cd adcAM-Sniffer
-```
 
-### Step 2: Install Dependencies
-
-```bash
+# Install dependencies
 pip install -r requirements.txt
-```
 
-### Step 3: Install Npcap (Windows)
+# Download and install Npcap (Windows)
+# Visit: https://nmap.org/npcap/
 
-1. Download Npcap from [https://nmap.org/npcap/](https://nmap.org/npcap/)
-2. Install with **WinPcap API-compatible Mode** enabled
-3. Restart your computer
-
----
-
-## 🎮 Usage
-
-### Starting the Application
-
-#### Windows (Administrator Required)
-```bash
-# Right-click Command Prompt → Run as Administrator
+# Run as Administrator/Root
 python run.py
 ```
 
-#### Linux/Mac (Root Required)
-```bash
-sudo python3 run.py
-```
+<div align="center">
 
-### First-Time Setup
+### 📋 Requirements
 
-1. **Register an Account**
-   - Click "Register" on the welcome screen
-   - Enter username and password
-   - Input your activation code
-   - Click "Register"
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **OS** | Windows 10, Linux, macOS | Windows 11, Ubuntu 22.04 |
+| **Python** | 3.8+ | 3.11+ |
+| **RAM** | 2 GB | 4 GB+ |
+| **Network** | Any NIC | Gigabit Ethernet |
 
-2. **Login**
-   - Enter your credentials
-   - Click "Login"
-   - Wait for the splash screen animation
+</div>
 
-3. **Select Network Interface**
-   - Choose your active network adapter from the dropdown
-   - Green dot indicates interface is up and running
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Basic Workflow
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Usage
 
-#### 1. **Set Capture Filter** (Optional)
-   - Select a quick filter (HTTP, HTTPS, DNS, FTP, ICMP)
-   - Or leave blank to capture all traffic
+<div align="center">
 
-#### 2. **Start Sniffing**
-   - Click the green **"▶ Start Sniffing"** button
-   - Monitor live packets in the table
-   - Watch for red-highlighted rows (credentials detected!)
+### 🎮 Basic Workflow
 
-#### 3. **Apply Display Filters**
-   - Type in the "Display Filter" box to filter visible packets
-   - Example: `192.168.1.1`, `http`, `google.com`
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
 
-#### 4. **View Packet Details**
-   - Click any packet row to open detail modal
-   - Tabs: Summary | Layer Details | Raw Payload
-   - Save individual packets as PCAP
+</div>
 
-#### 5. **Check Credentials Tab**
-   - Red badge shows number of credentials found
-   - View all detected sensitive data
-   - Export credentials to TXT file
+### 1️⃣ **First-Time Setup**
+- Register an account with your activation code
+- Login to access the dashboard
+- Select your active network interface
 
-#### 6. **Export Data**
-   - **Save All (PCAP)**: Export entire capture session
-   - **Export Credentials (TXT)**: Save credential report
-   - **Individual Packets**: Save specific packets
+### 2️⃣ **Start Capturing**
+- Set capture filters (HTTP, HTTPS, DNS, etc.)
+- Click **"▶ Start Sniffing"**
+- Monitor live packets in real-time
 
-#### 7. **Stop & Clear**
-   - Click **"■ Stop Sniffing"** to end capture
-   - Use **"🗑️ Clear All"** to reset session
+### 3️⃣ **Analyze Traffic**
+- View packet details with layer information
+- Apply display filters (IP, protocol, domain)
+- Watch for red-highlighted credentials
 
----
+### 4️⃣ **Export Data**
+- Save packets as PCAP files
+- Export detected credentials to TXT
+- Generate session reports
 
-## 🎨 Interface Guide
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Main Dashboard Sections
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Screenshots
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                  📊 adcAM Sniffer                       │
-│            Real-time Traffic Analysis Dashboard         │
-├─────────────┬───────────────────────────────────────────┤
-│  Sidebar    │         Main Content Area               │
-│             │                                           │
-│ • Interface │  Tabs: Live Packets | Summary | Creds    │
-│   Selector  │                                           │
-│             │  [Packet Table with Real-Time Updates]   │
-│ • Filters   │                                           │
-│   - Display │                                           │
-│   - Capture │                                           │
-│   - Quick   │                                           │
-│             │                                           │
-├─────────────┴───────────────────────────────────────────┤
-│  Status: Sniffing... | Packets: 1234 | [■ Stop]        │
-└─────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-### Protocol Color Coding
-- 🔴 **HTTP**: Red (Unencrypted traffic)
-- 🟢 **HTTPS**: Green (Encrypted traffic)
-- 🟠 **FTP**: Orange (File transfer)
-- 🟣 **DNS**: Purple (Domain lookups)
-- 🔵 **TCP**: Blue (General TCP)
-- 🟡 **UDP**: Yellow (General UDP)
+### 🎨 Modern Interface
 
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/400x250/240046/E0AAFF?text=Welcome+Screen" alt="Welcome Screen"/>
+      <br>
+      <sub><b>Welcome Screen</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/400x250/10002B/FF006E?text=Live+Dashboard" alt="Dashboard"/>
+      <br>
+      <sub><b>Live Dashboard</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/400x250/240046/FFD60A?text=Packet+Details" alt="Packet Details"/>
+      <br>
+      <sub><b>Packet Analysis</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://via.placeholder.com/400x250/10002B/9D4EDD?text=Credential+Alerts" alt="Alerts"/>
+      <br>
+      <sub><b>Credential Alerts</b></sub>
+    </td>
+  </tr>
+</table>
 
-## 📸 Screenshots
+</div>
 
-### Welcome Screen
-```
-┌─────────────────────────────────┐
-│         🎯 adcAM Sniffer        │
-│   Please log in or register     │
-│                                 │
-│  [  Login  ] [  Register  ]    │
-│                                 │
-│  Username: ________________     │
-│  Password: ________________     │
-│                                 │
-│         [ Login ]               │
-└─────────────────────────────────┘
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Live Packet Capture
-```
-Time      Source           Destination      Protocol  Domain           Size
-───────────────────────────────────────────────────────────────────────────
-14:32:15  192.168.1.100:53 8.8.8.8:53      DNS       google.com       64
-14:32:16  192.168.1.100:80 142.250.x.x:80  HTTP      example.com      512
-14:32:17  192.168.1.100:443 31.13.x.x:443  HTTPS     facebook.com     1024
-```
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Advanced Features
 
-### Credential Alert
-```
-┌──────────────────────────────────────┐
-│  🔒 Password Found                   │
-│                                      │
-│  Value: MyP@ssw0rd123                │
-│  From: 192.168.1.100 → 10.0.0.50    │
-└──────────────────────────────────────┘
-```
+<div align="center">
 
----
+### 🔧 BPF Filter Examples
 
-## 🔧 Advanced Features
-
-### BPF (Berkeley Packet Filter) Examples
+</div>
 
 ```python
 # Capture only HTTP traffic
@@ -256,299 +235,242 @@ Time      Source           Destination      Protocol  Domain           Size
 # Capture DNS queries
 "udp port 53"
 
-# Capture FTP
-"tcp port 21 or tcp port 20"
-
 # Exclude certain IPs
 "not host 192.168.1.1"
-
-# Capture only TCP SYN packets
-"tcp[tcpflags] & tcp-syn != 0"
 ```
 
-### Display Filter Examples
+<div align="center">
 
-```
-# Filter by IP address
-192.168.1.100
+### 🎨 Protocol Color Coding
 
-# Filter by protocol
-http
+| Protocol | Color | Description |
+|----------|-------|-------------|
+| 🔴 **HTTP** | Red | Unencrypted traffic |
+| 🟢 **HTTPS** | Green | Encrypted traffic |
+| 🟠 **FTP** | Orange | File transfer |
+| 🟣 **DNS** | Purple | Domain lookups |
+| 🔵 **TCP** | Blue | General TCP |
+| 🟡 **UDP** | Yellow | General UDP |
 
-# Filter by domain
-facebook.com
+</div>
 
-# Filter by port (in Info column)
-:443
-```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="35"> Security
 
-## 🛡️ Security Considerations
+<div align="center">
+
+### 🛡️ Security Features
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=18&duration=3000&pause=800&color=4CC9F0&center=true&vCenter=true&width=700&lines=bcrypt+Password+Hashing;Machine+ID+Binding;Rate+Limiting+Protection;Session+Management;Input+Validation" alt="Security" />
+
+</div>
 
 ### ⚠️ Important Warnings
 
-1. **Legal Use Only**: Only use on networks you own or have explicit permission to test
-2. **Administrator Rights**: Requires elevated privileges to capture packets
-3. **Sensitive Data**: All captured credentials are stored locally
-4. **Network Impact**: May cause increased network load during capture
-
-### 🔐 Security Features
-
-- **bcrypt Password Hashing**: Industry-standard password protection
-- **Machine ID Binding**: Prevents unauthorized account sharing
-- **Rate Limiting**: Protection against brute-force login attempts
-- **Session Management**: Automatic timeout and secure session handling
-- **Input Validation**: SQL injection and XSS protection
+- ✅ **Legal Use Only** - Only use on networks you own or have permission to test
+- ✅ **Administrator Rights** - Requires elevated privileges to capture packets
+- ✅ **Sensitive Data** - All captured credentials are stored locally
+- ✅ **Network Impact** - May cause increased network load during capture
 
 ### 📋 Best Practices
 
-- ✅ Always use on isolated test networks
-- ✅ Clear sensitive data after testing
-- ✅ Use strong passwords for registration
-- ✅ Keep activation codes confidential
-- ✅ Run antivirus scans regularly
-- ✅ Update to latest version
-
----
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-#### Issue: "No interfaces found"
-**Solution**: 
-- Run as Administrator (Windows) or sudo (Linux)
-- Install Npcap/WinPcap
-- Check if network adapters are enabled
-
-#### Issue: "Failed to start sniffing"
-**Solution**:
-- Verify administrator privileges
-- Check firewall settings
-- Ensure Npcap is installed correctly
-- Try different network interface
-
-#### Issue: "Import Error"
-**Solution**:
-```bash
-pip install --upgrade -r requirements.txt
+```
+✓ Always use on isolated test networks
+✓ Clear sensitive data after testing
+✓ Use strong passwords for registration
+✓ Keep activation codes confidential
+✓ Run antivirus scans regularly
+✓ Update to latest version
 ```
 
-#### Issue: Database locked
-**Solution**:
-- Close all instances of the application
-- Delete `app_data.db` and restart
-- Re-register your account
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### Issue: Browser not opening
-**Solution**:
-- Check if port 8080 is available
-- Manually open: `http://localhost:8080`
-- Install Chrome/Chromium browser
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="35"> Contributing
 
----
+<div align="center">
 
-## 📊 Technical Specifications
+Contributions are welcome! 🎉
 
-### System Requirements
+[![Fork](https://img.shields.io/badge/Fork-Repository-FF006E?style=for-the-badge&logo=github&logoColor=white&labelColor=240046)](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/fork)
+[![Issues](https://img.shields.io/badge/Open-Issue-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=240046)](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/issues)
+[![Pull Request](https://img.shields.io/badge/Submit-PR-4CC9F0?style=for-the-badge&logo=github&logoColor=240046&labelColor=240046)](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/pulls)
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| OS | Windows 10, Linux, macOS | Windows 11, Ubuntu 22.04 |
-| Python | 3.8+ | 3.11+ |
-| RAM | 2 GB | 4 GB+ |
-| Disk Space | 100 MB | 500 MB |
-| Network | Any NIC | Gigabit Ethernet |
-
-### Dependencies
-
-```
-eel>=0.14.0          # GUI framework
-scapy>=2.4.5         # Packet manipulation
-psutil>=5.8.0        # System utilities
-bcrypt>=3.2.0        # Password hashing
-gevent>=21.0.0       # Async networking
-bottle>=0.12.19      # Web server
-```
-
-### Architecture
-
-```
-adcAM-Sniffer/
-│
-├── app/
-│   ├── __init__.py
-│   └── application.py        # Core backend logic
-│
-├── web/
-│   ├── index.html            # Main UI
-│   ├── style.css             # Nord theme styling
-│   ├── script.js             # Frontend logic
-│   └── logo.ico              # Application icon
-│
-├── run.py                    # Entry point
-├── requirements.txt          # Dependencies
-├── LICENSE                   # Non-commercial license
-├── .gitignore               # Git ignore rules
-└── README.md                # This file
-```
-
----
-
-## 🎓 Educational Purpose
-
-This tool is designed for:
-- 📚 **Network Security Education**: Learn packet analysis
-- 🔬 **Penetration Testing**: Authorized security assessments
-- 🧪 **Research**: Academic network protocol studies
-- 🛠️ **Development**: Testing network applications
-
-### Learning Resources
-
-- [Wireshark Documentation](https://www.wireshark.org/docs/)
-- [Scapy Tutorial](https://scapy.readthedocs.io/)
-- [BPF Filter Guide](https://biot.com/capstats/bpf.html)
-- [Network Protocol Basics](https://www.cloudflare.com/learning/)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-### Development Setup
+</div>
 
 ```bash
-# Clone your fork
-git clone https://github.com/YOUR_USERNAME/adcAM-Sniffer.git
+# Fork the repository
+# Create a feature branch
+git checkout -b feature/AmazingFeature
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
+# Commit your changes
+git commit -m 'Add AmazingFeature'
 
-# Install dev dependencies
-pip install -r requirements.txt
+# Push to the branch
+git push origin feature/AmazingFeature
 
-# Run tests (if available)
-python -m pytest
+# Open a Pull Request
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📄 License
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> Version History
+
+<div align="center">
+
+### 📈 Releases
+
+| Version | Date | Highlights |
+|---------|------|------------|
+| **v5.1** | 2025 | Enhanced credential detection, Modern UI, Performance improvements |
+| **v5.0** | 2024 | Complete UI redesign, Real-time statistics dashboard |
+| **v4.x** | 2024 | Initial public release, Basic packet capture |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="35"> License
+
+<div align="center">
 
 **Non-Commercial Use License v3.0**
 
 Copyright © 2025 Amin Moniry (adc7). All rights reserved.
 
+[![License](https://img.shields.io/badge/License-Non--Commercial-FFD60A?style=for-the-badge&logo=creative-commons&logoColor=240046&labelColor=240046)](LICENSE)
+
+</div>
+
 ### ✅ Permitted Uses
 - Personal, educational, and research purposes
 - Non-profit organization activities
-- Legitimate security testing and penetration testing
+- Legitimate security testing
 - Modification for non-commercial purposes
 
 ### ❌ Prohibited Uses
 - Any commercial use or financial gain
-- Selling, licensing, or commercializing the software
-- Providing paid services using this software
+- Selling or licensing the software
+- Providing paid services
 - Integration into commercial products
 
-For commercial licensing inquiries:
-- 📧 Email: aminmoniry199@gmail.com
-- 🌐 GitHub: [Amin-moniry-pr7](https://github.com/Amin-moniry-pr7)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Contact & Support
 
-## 📞 Contact & Support
+<div align="center">
 
-### Get Help
-- 🐛 **Bug Reports**: [Open an Issue](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/issues)
-- 💡 **Feature Requests**: [Submit Request](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/issues)
-- 📖 **Documentation**: Check this README
+### 📞 Get in Touch
 
-### Connect
-- **Developer**: Amin Moniry (adc7)
-- **Email**: aminmoniry199@gmail.com
-- **GitHub**: [github.com/Amin-moniry-pr7](https://github.com/Amin-moniry-pr7)
+[![Email](https://img.shields.io/badge/Email-aminmoniry199@gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=240046)](mailto:aminmoniry199@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Amin--moniry--pr7-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=240046)](https://github.com/Amin-moniry-pr7)
+[![Telegram](https://img.shields.io/badge/Telegram-@adc7amin7adc-4CC9F0?style=for-the-badge&logo=telegram&logoColor=240046&labelColor=240046)](https://t.me/adc7amin7adc)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FFD60A?style=for-the-badge&logo=youtube&logoColor=240046&labelColor=240046)](https://www.youtube.com/@adc7aminoid7adc)
 
----
+### 💡 Support Options
 
-## 🏆 Acknowledgments
+| Type | Link |
+|------|------|
+| 🐛 **Bug Reports** | [Open an Issue](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/issues) |
+| 💡 **Feature Requests** | [Submit Request](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/issues) |
+| 📖 **Documentation** | [Read the Docs](https://github.com/Amin-moniry-pr7/adcAM-Sniffer/blob/main/README.md) |
 
-Special thanks to:
-- **Scapy Team** - Powerful packet manipulation library
-- **Eel Project** - Seamless Python-JavaScript integration
-- **Nord Theme** - Beautiful color scheme
-- **Open Source Community** - Inspiration and support
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Version History
+## <img src="https://media.giphy.com/media/3o6ZsY6aEvSYGSkgbS/giphy.gif" width="35"> Acknowledgments
 
-### v5.1 (Current) - 2025
-- ✨ Enhanced credential detection with multi-pattern recognition
-- 🚀 Improved performance with infinite scroll pagination
-- 🎨 Modern UI with Nord color scheme
-- 🔐 Enhanced security with bcrypt authentication
-- 💾 Database storage for packet persistence
-- 🐛 Bug fixes and stability improvements
+<div align="center">
 
-### v5.0 - 2024
-- 🎉 Complete UI redesign
-- 📊 Real-time statistics dashboard
-- 🔍 Advanced filtering capabilities
+Special thanks to the amazing open source community! 🙏
 
-### v4.x - 2024
-- Initial public release
-- Basic packet capture functionality
-- Credential detection system
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="80"/>
+      <br><br>
+      <b>Scapy Team</b>
+      <br>
+      <sub>Packet manipulation library</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
+      <br><br>
+      <b>Eel Project</b>
+      <br>
+      <sub>Python-JavaScript integration</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
+      <br><br>
+      <b>Nord Theme</b>
+      <br>
+      <sub>Beautiful color scheme</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/>
+      <br><br>
+      <b>Community</b>
+      <br>
+      <sub>Inspiration and support</sub>
+    </td>
+  </tr>
+</table>
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="35"> Statistics
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=Amin-moniry-pr7&repo=adcAM-Sniffer&style=for-the-badge&color=FF006E&label=VIEWS&labelColor=240046" />
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" height="50" />
+      <br>
+      <img src="https://img.shields.io/github/stars/Amin-moniry-pr7/adcAM-Sniffer?style=for-the-badge&color=FFD60A&labelColor=240046&logo=github&logoColor=white&label=STARS" />
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="50" height="50" />
+      <br>
+      <img src="https://img.shields.io/github/forks/Amin-moniry-pr7/adcAM-Sniffer?style=for-the-badge&color=9D4EDD&labelColor=240046&logo=github&logoColor=white&label=FORKS" />
+    </td>
+  </tr>
+</table>
+
+### 🌟 If you find this project useful, please give it a star!
+
+[![Star History](https://api.star-history.com/svg?repos=Amin-moniry-pr7/adcAM-Sniffer&type=Date&theme=dark)](https://star-history.com/#Amin-moniry-pr7/adcAM-Sniffer&Date)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
 
 ## ⚡ Quick Start Cheatsheet
 
 ```bash
-# 1. Install
 git clone https://github.com/Amin-moniry-pr7/adcAM-Sniffer.git
 cd adcAM-Sniffer
 pip install -r requirements.txt
-
-# 2. Run (as Admin/Root)
 python run.py
-
-# 3. Register → Login → Select Interface → Start Sniffing
-
-# 4. Monitor credentials in real-time!
 ```
 
----
+**1.** Register → **2.** Login → **3.** Select Interface → **4.** Start Sniffing! 🚀
 
-## 🌟 Star History
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-If you find this project useful, please consider giving it a ⭐ on GitHub!
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=800&lines=Built+with+❤️+by+Amin+Moniry;Making+Network+Security+Accessible;Use+Responsibly+•+Security+First;Education+Focused+•+Open+Source" alt="Footer" />
 
----
-
-<div align="center">
-
-**Built with ❤️ by Amin Moniry**
-
-*Making network security accessible to everyone*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Amin--moniry--pr7-blue?logo=github)](https://github.com/Amin-moniry-pr7)
-[![License](https://img.shields.io/badge/License-Non--Commercial-orange)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-5.1-success)](https://github.com/Amin-moniry-pr7/adcAM-Sniffer)
-
----
-
-**⚠️ Use Responsibly | 🔒 Security First | 📚 Education Focused**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=E0AAFF&animation=twinkling&desc=⚠️%20Use%20Responsibly%20|%20🔒%20Security%20First%20|%20📚%20Education%20Focused&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 
 </div>
