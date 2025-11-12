@@ -1,0 +1,92 @@
+# Non-Commercial Use License
+
+**adcAM Sniffer Network Analysis Tool**
+
+Copyright (c) 2025 Amin_Moniry_adc7 Development Team. All rights reserved.
+
+## License Terms
+
+This software and associated documentation files (the "Software") are licensed under the following terms:
+
+### PERMITTED USES
+
+You are granted a non-exclusive, non-transferable license to:
+
+✅ **Personal Use**: Use the Software for personal, non-commercial purposes
+✅ **Educational Use**: Use the Software for educational and learning purposes
+✅ **Research Use**: Use the Software for academic and scientific research
+✅ **Security Testing**: Use the Software for legitimate security testing and penetration testing
+✅ **Non-Profit Use**: Use by registered non-profit organizations for their activities
+✅ **Modification**: Modify the Software for the above permitted uses
+✅ **Distribution**: Distribute unmodified copies with this license intact
+
+### PROHIBITED USES
+
+The following uses are strictly prohibited:
+
+❌ **Commercial Use**: Any use of the Software for commercial purposes or financial gain
+❌ **Commercial Distribution**: Selling, licensing, or otherwise commercializing the Software
+❌ **Service Provision**: Using the Software to provide paid services to third parties
+❌ **Integration**: Incorporating the Software into commercial products or services
+❌ **Consulting**: Using the Software as part of paid consulting or professional services
+❌ **Training**: Using the Software in commercial training programs or courses
+
+### LEGAL COMPLIANCE
+
+Users must:
+
+🔒 Only use the Software on networks they own or have explicit written authorization to test
+🔒 Comply with all applicable local, national, and international laws
+🔒 Respect privacy rights and data protection regulations
+🔒 Follow responsible disclosure practices for security findings
+🔒 Not use the Software for illegal activities including but not limited to:
+   - Unauthorized access to computer systems
+   - Privacy violations
+   - Industrial espionage
+   - Malicious network activities
+
+### CONDITIONS
+
+This license is granted under the following conditions:
+
+**Attribution**: Any distribution of the Software must include this license file and preserve all copyright notices.
+
+**No Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+**Limitation of Liability**: IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+**License Compatibility**: This Software may not be combined with software under licenses that would require commercial licensing of this Software.
+
+### TERMINATION
+
+This license automatically terminates if you violate any of its terms. Upon termination, you must cease all use of the Software and destroy all copies.
+
+### COMMERCIAL LICENSING
+
+For commercial use, enterprise licensing, or any use not explicitly permitted above, please contact:
+
+📧 Email: aminmoniry199@gmail.com
+🌐 Website: https://github.com/Amin-moniry-pr7
+
+Commercial licenses are available with different terms and conditions.
+
+### ENFORCEMENT
+
+Violation of this license may result in:
+- Immediate termination of your right to use the Software
+- Legal action to enforce these terms
+- Claims for damages and attorney fees
+
+### MODIFICATIONS TO LICENSE
+
+This license may only be modified by the copyright holders. Any modified versions of the Software must clearly indicate changes made and cannot remove or modify these license terms.
+
+---
+
+**This license is binding upon download, installation, or use of the Software.**
+
+**Version**: 3.0
+**Effective Date**: 2025
+**Governing Law**: This license is governed by the laws of [adc7_copyright]
+
+For questions about this license, contact: aminmoniry199@gmail.com

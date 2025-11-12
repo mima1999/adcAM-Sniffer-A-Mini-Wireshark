@@ -1,0 +1,21 @@
+# adcAM Sniffer Dependencies
+# Core networking and GUI
+eel>=0.14.0
+scapy>=2.4.5
+psutil>=5.8.0
+
+# Security and authentication
+bcrypt>=3.2.0
+
+# Database
+# sqlite3 is included in Python standard library
+
+# GUI components
+# tkinter is included in Python standard library
+
+# Additional networking support (Windows)
+# Install Npcap separately from: https://nmap.org/npcap/
+
+# Optional: For better gevent compatibility on Windows
+gevent>=21.0.0
+bottle>=0.12.19
